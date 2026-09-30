@@ -1,0 +1,40 @@
+# WIG20 point-in-time membership (REAL, sourced — not hand-typed)
+# Source: GPW Benchmark official quarterly index portfolios (Historyczne portfele indeksow),
+#   https://www.gpwbenchmark.pl/historyczne-portfele-indeksow — per-revision PDFs
+#   /pub/BENCHMARK/files/PDF/historyczne/YYYY_MM_DD_WIG20.pdf, mapped by ISIN.
+# Revisions covered: 2020-03-20 .. 2025-09-19 (quarterly, 3rd Friday of Mar/Jun/Sep/Dec).
+# Granularity: quarterly. Intra-quarter special revisions are snapped to the next
+#   quarterly boundary (a name's entry/exit can lag its special-revision date by <1 quarter).
+# Blank end = still a member at the last covered revision. Columns: symbol,start,end
+symbol,start,end
+acp.pl,2020-12-18,2024-03-14
+ale.pl,2020-12-18,
+alr.pl,2020-03-20,2021-03-18
+alr.pl,2023-03-17,
+bdx.pl,2024-03-15,
+ccc.pl,2020-03-20,2023-03-16
+ccc.pl,2025-03-21,
+cdr.pl,2020-03-20,
+cps.pl,2020-03-20,2025-03-20
+dnp.pl,2020-03-20,
+jsw.pl,2020-03-20,2025-03-20
+kgh.pl,2020-03-20,
+kru.pl,2022-12-16,
+kty.pl,2022-09-16,
+lpp.pl,2020-03-20,
+lts.pl,2020-03-20,2022-09-15
+mbk.pl,2020-03-20,2020-12-17
+mbk.pl,2022-03-18,
+mrc.pl,2021-03-19,2022-03-17
+opl.pl,2020-03-20,
+pco.pl,2022-03-18,
+peo.pl,2020-03-20,
+pge.pl,2020-03-20,
+pgn.pl,2020-03-20,2022-12-15
+pkn.pl,2020-03-20,
+pko.pl,2020-03-20,
+ply.pl,2020-03-20,2020-12-17
+pzu.pl,2020-03-20,
+spl.pl,2020-03-20,
+tpe.pl,2020-03-20,2022-03-17
+zab.pl,2025-03-21,

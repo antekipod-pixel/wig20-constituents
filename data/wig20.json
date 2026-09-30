@@ -1,0 +1,157 @@
+[
+  {
+    "symbol": "acp.pl",
+    "start": "2020-12-18",
+    "end": "2024-03-14"
+  },
+  {
+    "symbol": "ale.pl",
+    "start": "2020-12-18",
+    "end": null
+  },
+  {
+    "symbol": "alr.pl",
+    "start": "2020-03-20",
+    "end": "2021-03-18"
+  },
+  {
+    "symbol": "alr.pl",
+    "start": "2023-03-17",
+    "end": null
+  },
+  {
+    "symbol": "bdx.pl",
+    "start": "2024-03-15",
+    "end": null
+  },
+  {
+    "symbol": "ccc.pl",
+    "start": "2020-03-20",
+    "end": "2023-03-16"
+  },
+  {
+    "symbol": "ccc.pl",
+    "start": "2025-03-21",
+    "end": null
+  },
+  {
+    "symbol": "cdr.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "cps.pl",
+    "start": "2020-03-20",
+    "end": "2025-03-20"
+  },
+  {
+    "symbol": "dnp.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "jsw.pl",
+    "start": "2020-03-20",
+    "end": "2025-03-20"
+  },
+  {
+    "symbol": "kgh.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "kru.pl",
+    "start": "2022-12-16",
+    "end": null
+  },
+  {
+    "symbol": "kty.pl",
+    "start": "2022-09-16",
+    "end": null
+  },
+  {
+    "symbol": "lpp.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "lts.pl",
+    "start": "2020-03-20",
+    "end": "2022-09-15"
+  },
+  {
+    "symbol": "mbk.pl",
+    "start": "2020-03-20",
+    "end": "2020-12-17"
+  },
+  {
+    "symbol": "mbk.pl",
+    "start": "2022-03-18",
+    "end": null
+  },
+  {
+    "symbol": "mrc.pl",
+    "start": "2021-03-19",
+    "end": "2022-03-17"
+  },
+  {
+    "symbol": "opl.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "pco.pl",
+    "start": "2022-03-18",
+    "end": null
+  },
+  {
+    "symbol": "peo.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "pge.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "pgn.pl",
+    "start": "2020-03-20",
+    "end": "2022-12-15"
+  },
+  {
+    "symbol": "pkn.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "pko.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "ply.pl",
+    "start": "2020-03-20",
+    "end": "2020-12-17"
+  },
+  {
+    "symbol": "pzu.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "spl.pl",
+    "start": "2020-03-20",
+    "end": null
+  },
+  {
+    "symbol": "tpe.pl",
+    "start": "2020-03-20",
+    "end": "2022-03-17"
+  },
+  {
+    "symbol": "zab.pl",
+    "start": "2025-03-21",
+    "end": null
+  }
+]
